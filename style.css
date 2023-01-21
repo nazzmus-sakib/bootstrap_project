@@ -1,0 +1,9 @@
+.special-img {
+  filter: grayscale(1);
+}
+.primary-color {
+  color: #ff900e;
+}
+.text-color {
+  color: rgb(7, 149, 244);
+}
